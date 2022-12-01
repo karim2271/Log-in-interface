@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url('images/img3.jpg');
+    /* background-image: linear-gradient(rgb(0, 4, 16), rgb(5, 0, 8)); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 120em;
+    
+    
+}
+.title{
+    background-color: rgb(238, 240, 242);
+    margin-top: 120px;
+    margin-left: 290px;
+    margin-right: 600px;
+    height: 350px;
+    width: 400px;
+    
+
+
+}
+.img{
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.container{
+
+background-color: rgb(251, 253, 253);
+height: 350px;
+width: 250px;
+top: 20%;
+left: 65%;
+position: absolute;
+transform: translate(-50% -50%);
+border: dashed seashell;
+
+
+}
+.h{
+    color: rgb(3, 6, 21);
+    text-align: center;
+    background
+
+}
+.user{
+    text-align: center;
+}
+.input{
+     margin-left: 40px;
+     text-align: center;
+     height: 30px;
+     border: outset;
+}
+.btn{
+    background-color: rgb(166, 27, 225);
+    border-radius: 20px;
+    color: rgb(8, 10, 49);
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 20px;
+    width: 170px;
+    p
+    height: 1px ;
+    padding:2px;
+    border-color: white;
+    font-family:sans-serif;
+    font-weight: bold;
+}
+.btn:hover{
+    background-color: rgb(20, 211, 135);
+}
+.forget{
+    color: rgb(13, 20, 236);
+    background-color: rgb(248, 250, 252);
+    margin-left: 20px
+    
+}
